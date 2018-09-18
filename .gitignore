@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+tags
+*.o
+*.out
+*.bak
+*.log
+*.pod
+core.*
+Session*.vim
+*~
+autoload/package.vim
+devnote*
+*.gz
+*.tgz
